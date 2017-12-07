@@ -13,4 +13,3 @@ axes[1].legend(handles[::-1], labels[::-1])
 
 plt.show()
 
-
